@@ -9,5 +9,7 @@ Within notebooks, there are three notebooks.
       This notebook is where the scoring occured, and all visualizations regarding the analysis based on score
   3. animation_notebook.ipynb
       This is where the animation for each play was created. 
- Images has all of the logoas, as well as the images used for the kaggle submission notebook which can be found here:
+ Images has all of the logoas, as well as the images used for the kaggle submission notebook.
+ 
+ The Kaggle submission for the 2023 Big Data Bowl can be found here:
  https://www.kaggle.com/code/charliesinger/the-shield
